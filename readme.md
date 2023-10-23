@@ -3,6 +3,18 @@
 
 ![](./example.jpg)
 
+### Colors
+
+Todo: this should be the new colors
+
+Normal text: #a6a8aa
+Background: #000000
+Comments & preprocessor: #8d8594
+Types and keywords: #8a9148
+Strings: #b2453f
+Search: #ffbb4a
+Visual:
+
 ### Installing + Dependecies
 
 It depens on [colorbuddy.nvim](https://github.com/tjdevries/colorbuddy.nvim)
