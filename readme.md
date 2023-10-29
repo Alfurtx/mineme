@@ -9,11 +9,13 @@ Todo: this should be the new colors
 
 Normal text: #a6a8aa
 Background: #000000
-Comments & preprocessor: #8d8594
-Types and keywords: #8a9148
-Strings: #b2453f
+Comments & preprocessor: #7b7684
+Types and keywords: #f3bc5a
+Strings: #3c4430
 Search: #ffbb4a
 Visual:
+
+
 
 ### Installing + Dependecies
 
